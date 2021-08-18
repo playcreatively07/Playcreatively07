@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Deepak</a>!
+## Heyyo, I'm <a href="https://" target="_blank">Deepak</a>!
 (Use dark theme to find my socials ;)
 
 
